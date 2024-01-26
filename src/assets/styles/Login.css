@@ -1,0 +1,30 @@
+.input {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-left: 700px;
+    margin-bottom: 30px;
+    background-color: #f6d8aa;
+}
+
+.login {
+    /* margin-top: 200px; */
+}
+
+.login-text {
+    margin-left: 830px;
+    margin-bottom: 30px;
+    font-family: Poppins;
+}
+
+.login-hero {
+    margin-left: 860px;  
+    margin-top: 5px; 
+}
+
+.reset {
+    margin-left: 700px;  
+    margin-top: 5px;
+    cursor: pointer;
+    font-family: Poppins;
+}
