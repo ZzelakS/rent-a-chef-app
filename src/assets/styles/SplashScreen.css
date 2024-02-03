@@ -1,0 +1,29 @@
+body {
+    background-color: #fff4e4;
+    background-image: '../images/Group_596.svg';
+}
+
+.splash {
+    display: flex;
+    flex-direction:row;
+    /* margin: 450px; */
+    margin-top: 200px;
+    padding-bottom: 30px;
+    /* padding-left: 10px; */
+    align-items: center;
+    justify-content: center;
+}
+
+.splash button {
+    padding: 70px;
+    margin: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #e58900;
+    font-family: Poppins, poppins;
+    font-weight: bold;
+    font-size: larger;
+    color: #0c5548;
+    border: none;
+
+}
